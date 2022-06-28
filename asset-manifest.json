@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jasper19901029/RobotFriends.git/static/css/main.695dc745.css",
+    "main.js": "/Jasper19901029/RobotFriends.git/static/js/main.4962924d.js",
+    "static/js/787.32032a02.chunk.js": "/Jasper19901029/RobotFriends.git/static/js/787.32032a02.chunk.js",
+    "index.html": "/Jasper19901029/RobotFriends.git/index.html",
+    "main.695dc745.css.map": "/Jasper19901029/RobotFriends.git/static/css/main.695dc745.css.map",
+    "main.4962924d.js.map": "/Jasper19901029/RobotFriends.git/static/js/main.4962924d.js.map",
+    "787.32032a02.chunk.js.map": "/Jasper19901029/RobotFriends.git/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.695dc745.css",
+    "static/js/main.4962924d.js"
+  ]
+}
