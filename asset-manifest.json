@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jasper19901029/RobotFriends/static/css/main.695dc745.css",
-    "main.js": "/jasper19901029/RobotFriends/static/js/main.1093826a.js",
-    "static/js/787.32032a02.chunk.js": "/jasper19901029/RobotFriends/static/js/787.32032a02.chunk.js",
-    "index.html": "/jasper19901029/RobotFriends/index.html",
-    "main.695dc745.css.map": "/jasper19901029/RobotFriends/static/css/main.695dc745.css.map",
-    "main.1093826a.js.map": "/jasper19901029/RobotFriends/static/js/main.1093826a.js.map",
-    "787.32032a02.chunk.js.map": "/jasper19901029/RobotFriends/static/js/787.32032a02.chunk.js.map"
+    "main.css": "/RobotFriends/static/css/main.695dc745.css",
+    "main.js": "/RobotFriends/static/js/main.bf919f6c.js",
+    "static/js/787.32032a02.chunk.js": "/RobotFriends/static/js/787.32032a02.chunk.js",
+    "index.html": "/RobotFriends/index.html",
+    "main.695dc745.css.map": "/RobotFriends/static/css/main.695dc745.css.map",
+    "main.bf919f6c.js.map": "/RobotFriends/static/js/main.bf919f6c.js.map",
+    "787.32032a02.chunk.js.map": "/RobotFriends/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.695dc745.css",
-    "static/js/main.1093826a.js"
+    "static/js/main.bf919f6c.js"
   ]
 }
